@@ -17,7 +17,7 @@ else:
         os.system('pip2 install requests')
         
 def entertools():
-	os.system('sh babi_buat_yang_ngerecode_thanks.sh')
+	os.sys 
 
 def restart():
     ngulang = sys.executable
